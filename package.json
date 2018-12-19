@@ -1,0 +1,28 @@
+{
+  "name": "pigb",
+  "version": "1.0.0",
+  "description": "Pályázati igénybejelentő",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomuwhu/pigb.git"
+  },
+  "keywords": [
+    "Űrlap"
+  ],
+  "author": "Németh-Szabados Klára Viktória",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomuwhu/pigb/issues"
+  },
+  "homepage": "https://github.com/tomuwhu/pigb#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "nedb": "^1.8.0"
+  }
+}
