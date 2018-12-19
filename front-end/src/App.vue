@@ -262,7 +262,7 @@
 </template>
 
 <script>
-const server_adress="http://localhost:3000/"
+const server_adress="http://www.inf.u-szeged.hu/u/tnemeth_3/"
 export default {
 	name: 'app',
 	data: () => ({

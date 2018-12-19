@@ -8,7 +8,7 @@ app.use(express.static('front-end/dist'))
 app.use(bodyParser.json())
 app.use(cors())
 
-const port = 3000
+const port = 3003
 
 app.get('/get/:id', (req, res) => {
     db.find( {_id:req.params.id}, (err,data)=> {
