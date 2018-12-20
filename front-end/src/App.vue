@@ -263,6 +263,7 @@
 
 <script>
 const server_adress="http://www.inf.u-szeged.hu/u/tnemeth_3/"
+document.title='Bejelentő'
 export default {
 	name: 'app',
 	data: () => ({
