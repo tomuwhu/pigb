@@ -1,7 +1,6 @@
 <template>
   <div id="app">
     <div class="onlyprint">
-      Fejléc, csak nyomtatáshoz
       <img src="./assets/logo.png">
     </div>
     <div style="text-align:center;" class="no-print">
